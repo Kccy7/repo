@@ -1,0 +1,16 @@
+Package: com.82flex.singlevpn
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.1_iphoneos-arm64.deb
+Size: 27340
+MD5sum: 52ab07eb12a0ea094eb26850c8535e83
+SHA1: 482c95b566ce203f589a1b4ed7c8403b0d44e3ba
+SHA256: ef76166c599c47fe1f958c641fb155bc60550525e34b37b29a730d5a7e7989a3
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
