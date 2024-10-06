@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8"/>
+    <title>添加软件源</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+        .main-bg {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            width: 80%;
+            max-width: 400px;
+            text-align: center; /* 所有文字居中 */
+            margin: auto; /* 自动边距 */
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px; /* 标题下边距 */
+        }
+        .legend {
+            color: #666;
+            font-size: 16px;
+            margin-top: 20px;
+            display: block; /* 使legend为块级元素 */
+        }
+        .legend .fa {
+            margin-left: 10px;
+        }
+        form {
+            margin-top: 20px;
+        }
+        .add-button {
+            display: block; /* 使链接表现为块级元素 */
+            background-color: #5cb85c;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            transition: background-color 0.3s;
+            margin: 20px auto; /* 按钮居中 */
+        }
+        .add-button:hover {
+            background-color: #4cae4c;
+        }
+        a {
+            display: block; /* 使链接表现为块级元素 */
+            margin: 20px auto; /* 链接居中 */
+        }
+    </style>
+</head>
+<body>
+    <div class="main-bg">
+        <h1>Lemonas's Repo</h1>
+        <p class="legend">添加软件源到 Sileo</p>
+        <form action="#" method="post">
+            <a href="sileo://source/https://kccy7.github.io/repo/" class="add-button">添加</a> 
+        </form>
+        <a href="./problems.html" class="add-button">其他问题</a>
+        <div class="credits">
+            感谢以下两位的帮助：
+            <a href="https://github.com/invalidunit" class="credit-link">zhaonan</a> 和 <a href="https://github.com/Lincorm" class="credit-link">kccy7</a>
+        </div>
+    </div>
+</body>
+</html>
