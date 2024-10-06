@@ -3,5 +3,5 @@ Label: Gojo Satoru
 Description: This is a self-use software source
 Suite: stable
 Version: 1.0
-Architectures:iphoneos-arm64 
+Architectures: iphoneos-arm64 
 Components: main
