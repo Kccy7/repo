@@ -1,3 +1,36 @@
+Package: com.0xkuj.ccadsbegone.rootless
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj <0xkujz@gmail.com>
+Depends: com.opa334.ccsupport, com.ps.letmeblock
+Conflicts: com.0xkuj.ccadsbegone
+Filename: ./debs/com.0xkuj.ccadsbegone.rootless_1.1_iphoneos-arm64.deb
+Size: 119848
+MD5sum: 3df40dbee7f2370680378edf8c397e7d
+SHA1: 87d67ff607880a59579ea9c8ab0e4a8077b0bd9f
+SHA256: aa264f4a184bb9158f23230c7dd8ffe2af51edaa868f1e19c00649e4a03847e4
+Section: Tweaks
+Description: CC Toggle to block ads on demand!
+Author: 0xkuj <0xkujz@gmail.com>
+Name: CCAdsBeGone (rootless)
+
+Package: com.25mao.youquan.rootless
+Version: 3.0-9
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/淘宝优惠券-Rootless.3.0-9.deb
+Size: 56864
+MD5sum: 81aa7d7b5ad7ea684179de36133a467d
+SHA1: 73cd09fe0d5801fd823079423123f3175fda2601
+SHA256: 0d1c3b62687d718e54cb8bba6cca0706691d2bc3ae355e06ff774b014c53cf8a
+Section: Rootless
+Priority: optional
+Description: 查淘宝优惠券，查商品历史价
+Author: Mao
+Name: 淘宝优惠券-Rootless
+Sponsor: admin@25mao.com
+
 Package: com.82flex.singlevpn
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -13,4 +46,334 @@ Section: Tweaks
 Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
+
+Package: com.ddd996.kuanpatch
+Version: 4.2.0
+Architecture: iphoneos-arm64
+Maintainer: ddd996 <(null)>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/酷安去广告Noads-arm64.deb
+Size: 4242
+MD5sum: 2f45fc62e626b38a69f8a45f7a6349e6
+SHA1: b1c24aee2dab83e47e7e06c3985df40a46dcc793
+SHA256: 6b61b143e877829127ceb48b953f5ad2b1e6f0691e519da08ae9d3d63bfbaf84
+Section: Tweaks
+Description: 5.1.3去除广告加速开屏时间
+Author: ddd996 <(null)>
+Name: 酷安 Patch
+
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_v7.10.0_iphoneos-arm64.deb
+Size: 1098586
+MD5sum: 6d52edf547d85ea5713e913d6293f3ba
+SHA1: d9fb1af260401829b101a3a3214698919d0dc1f6
+SHA256: eb1137e9ccf0d9c0b985011a42d969b214dccde19977c9398e300da50ae6a083
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
+Package: com.gior007.talkatonenoads
+Version: 4.2.0
+Architecture: iphoneos-arm64
+Maintainer: gior007 <(null)>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.talkatonenoads_iphoneos-arm64.deb
+Size: 2972
+MD5sum: 6e5ec2e93a6ca076c9dec60a043ce9c5
+SHA1: 9b68fc6739ea3bae1cce7294eb82c4a23d0c0ff9
+SHA256: a49ccee36c529d5efd8c8dba697a719ada96a027079dd04782de29f41631a10f
+Section: Tweaks
+Description: 开启广告订阅功能，移除两个占位的banner
+Author: gior007 <(null)>
+Name: Talkatone NoAds
+
+Package: com.huayuarc.pddnoads.rootless
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: cike
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/拼多多NoAds-Rootless.0.0.1-1.deb
+Size: 3536
+MD5sum: 89030ce6db679ab4e6bc5637564d2cd4
+SHA1: 4b322636f9a63a1cb9878a5e6f58f32b58b6cf6b
+SHA256: ab7f3ebc249a54e5214756a141e8332dc50ba44f77cc51d1372ae2ccb6172d8b
+Section: 插件
+Description: 屏蔽启动广告｜屏蔽语音录入｜屏蔽弹窗｜屏蔽首页漂浮｜屏蔽直播弹窗｜屏蔽搜索栏文字｜屏蔽个人中心横幅
+Author: cike
+Name: 拼多多NoAds-Rootless
+Sponsor: cike
+
+Package: com.huayuarc.tbnoads.rootless
+Version: 1.2-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/淘宝NoAds-Rootless.1.2-1.deb
+Size: 62204
+MD5sum: ed6f036b8445acd9644a85c3b0d2fb1b
+SHA1: 7e772b073e08778abbddc5e69ada0c8b587f479b
+SHA256: 06cc7d1b10cffedac1bcb95e468cc74125449ce315442e96adeddc06f96076af
+Section: 插件
+Description: 淘宝去除启动广告｜去除搜索列表中广告商品｜去除购物车推荐和订单列表中推荐商品｜逛逛原始按钮保存图片/视频去除水印｜增加长按商品视频评论视频保存到相册
+Author: Netskao
+Name: 淘宝 NoAds-Rootless
+Sponsor: Nets
+
+Package: com.julioverne.spotilife
+Version: 1.8
+Architecture: iphoneos-arm64
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/Spotilife_1.8_iphoneos-arm64.deb
+Size: 194398
+MD5sum: b2b93cecb66502be9fe67a867a4a5e2d
+SHA1: daddd3d6e0cc76932876c4d9f58a4227c1dd73ed
+SHA256: 471ea9c3026e9e69a7d5d4937db6b45c596d2b97fe81533b1caf9f2c30f753f7
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Depiction: https://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
+Name: Spotilife
+
+Package: com.level3tjg.sposifyfix
+Version: 0.0.6
+Architecture: iphoneos-arm64
+Maintainer: level3tjg
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000), com.spos
+Filename: ./debs/Sposify Fix_0.0.6_iphoneos-arm64.deb
+Size: 26154
+MD5sum: 2933aabb413c3808123a354736385ac1
+SHA1: 08cd02da1ac9288eef1eb7ff4eb286e80fac87c6
+SHA256: 05726b5c864560d13d0231c3501ab5601fa7f973ac9255681748b6ea586a85a5
+Section: Tweaks
+Description: Fix for Sposify for Spotify v8.6.30
+Author: level3tjg
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.sposifyfix
+Name: Sposify Fix
+
+Package: com.spos
+Version: 8.5.52
+Architecture: iphoneos-arm64
+Maintainer: aesthyrica
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: ./debs/Sposify_8.5.52_iphoneos-arm64.deb
+Size: 118176
+MD5sum: 3d8c0cd766573f829c4aaa3495751749
+SHA1: aefe810e09ba2c059db5d8433c68250807186211
+SHA256: c65dbca651a18e8a58aa5ef69e1d353acf17ce6f88b9b70a29fe3e3b2794d57d
+Section: Tweaks
+Description: Sposify is a tweak which adds various enhancements to the Spotify application on iOS
+Author: aesthyrica
+Depiction: https://aesthyrica.com/repo/package/com.sposify.client.html
+Name: Sposify
+
+Package: com.squidforce.hidenotificationbadge
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce
+Installed-Size: 168
+Filename: ./debs/隐藏通知图标中右下角标_0.0.1_iphoneos-arm64.deb
+Size: 2746
+MD5sum: 874212e5105a51a22d63bd23f70ad088
+SHA1: f84424f12161d50b8d1da90e120542cfaba47a68
+SHA256: 1d00f1e9ff2d317a1b63d8ab5656b053ca48a43bad920a93c270f37cd0a92fda
+Section: Tweaks
+Description: 隐藏通知图标中右下角标
+Author: SquidForce
+Name: HideNotificationBadge - 隐藏通知图标中右下角标
+
+Package: com.swing.eleme
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: SWING
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/饿了么去广告.1.0.4.deb
+Size: 11416
+MD5sum: 5a97f047048bcede3d0120735fa0f740
+SHA1: e054ef3accc15061338089bce646ec7a5887f9f4
+SHA256: 61747dea359c832df091fcb365d3b1651c39ea0d24e0b61d5a7a622f73d3e7a2
+Section: Tweaks
+Description: 饿了么去广告，新增精简全能超市和购物车推荐。源内所有插件仅供本人学习交流使用，下载后请于24小时内删除! 软件源：https://repo.abox.plus  TG：https://t.me/abox1993
+Author: SWING
+Depiction: https://repo.abox.plus/depictions/index.html?packageId=com.swing.eleme
+Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
+Name: 饿了么去广告
+Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
+
+Package: com.yourepo.0xash.patch
+Version: 4.2.0
+Architecture: iphoneos-arm64
+Maintainer: Ash <krylov0@outlook.com>
+Depends: mobilesubstrate
+Filename: ./debs/酷安NoAds.4.2.0.deb
+Size: 2948
+MD5sum: 6d81a41a8fa0cbc771ec1e7cf9671a7d
+SHA1: 62f7bc5bee681fd812ab7f2a1611ba21a453f46f
+SHA256: e2b544f57408a18fdafa2454b4418a78e06d0ed6a08798d67c276a349f434014
+Section: Tweaks
+Description: 去除广告 加速开屏时间
+Author: ddd996 <krylov0@outlook.com>
+Name: 酷安 NoAds
+
+Package: iosign.10000.rootless
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: iOSign
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/中国电信Rootless.0.1-1.deb
+Size: 2952
+MD5sum: f961c1f664eea72cae5e9cffd3c92d02
+SHA1: 38e9bbd5340327ba0c2205fd3893d0f93915ed0a
+SHA256: 85115c269a343972d201e9e9c764fb229d95a08fd1e47daa952270be4a2155ca
+Section: Tweaks
+Description: 去除广告
+Author: iOSign
+Name: 中国电信(Rootless)
+
+Package: iosign.163music.rootless
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: iOSign
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/网易云音乐Rootless.0.1-1.deb
+Size: 3780
+MD5sum: 70f31ff9cc9a2676de1416d1619b5e9e
+SHA1: 130a40b8b0ea3a61b12214ac4d0150d5bc4125ac
+SHA256: 7a0514516de4b3247bb3af61fc2c6f53d4ba587997ec29399618ff48ae1fae90
+Section: Tweaks
+Description: 去除启动广告，去除首页横幅，去除搜索页面广告，去除播放页面右上角直播，去除评论间推荐以及评论顶部查看十年关注报告横幅，去除个人页面看直播领黑胶橫幅提示，去除播客页面广告
+Author: iOSign
+Name: 网易云音乐(Rootless)
+
+Package: iosign.alipaystep.rootless
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: iOSign
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/支付宝Rootless.0.1-1.deb
+Size: 3132
+MD5sum: 45ebe1bc20cb931dd6df8988028946b2
+SHA1: d02bb708fbdb5ba584256c044e4f77a811f0895c
+SHA256: 3a5d44badff405437a652991951160718fa3a5d8bacc0dfc4f0bf2e416c15c76
+Section: Tweaks
+Description: 每天十万步，屏蔽更新检测！
+Author: iOSign
+Name: 支付宝(Rootless)
+
+Package: iosign.baidudisk.rootless
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: iOSign
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/百度网盘NoAdRootless.0.1-1.deb
+Size: 3676
+MD5sum: 93a1d4a0c4ad6a7a95ce0caaf322d5a3
+SHA1: 09264822fb68af336cd6ed3ea6959f6a6ba68431
+SHA256: 34749ca8addd480efcfb34c1d5a26a8e21be92de5df4536fc2bad21a1625c021
+Section: Tweaks
+Description: 优化去除广告、精简个人主页、屏蔽TF版本更新检测、去除菜单栏红点提示
+Author: iOSign
+Name: 百度网盘NoAd(Rootless)
+
+Package: iosign.fleamarket.rootless
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: iOSign
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/闲鱼Rootless.0.1-1.deb
+Size: 2992
+MD5sum: bc630460df98b7da3eb3621e0f667fba
+SHA1: 7dcba7cf849285a6efba19c764e82c14de759715
+SHA256: 4754cc6541877fc70e93f4ae6c77327106cf4d03878b26e779a4c812c5c1ba62
+Section: Tweaks
+Description: 去除启动广告，屏蔽升级弹窗
+Author: iOSign
+Name: 闲鱼(Rootless)
+
+Package: iosign.jd.rootless
+Version: 0.1-6
+Architecture: iphoneos-arm64
+Maintainer: iOSign
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/京东NoAdRootless.0.1-6.deb
+Size: 3672
+MD5sum: 3da169cd131bff293f7f1d90b2b25652
+SHA1: 5ea4d4349d5b7f9f87f278a7b3adac046fd0cbbc
+SHA256: c527df4aa23790f8e2ec9c6ccccb8539f7a3ba36240ddf9beed0e1832594f6fa
+Section: Tweaks
+Description: 去除启动广告、去除个人主页底部推荐、精简搜索栏、屏蔽升级弹窗
+Author: iOSign
+Name: 京东NoAd(Rootless)
+
+Package: iosign.taobao.rootless
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: iOSign
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/淘宝iosign0.1-1.deb
+Size: 3532
+MD5sum: 84ce8999c19b7ea2fd9d8be181e533be
+SHA1: 731984fe71810936a58d6b5be6e4c9c21c1c6cac
+SHA256: 87bfdd413dea2f80dc30d79be6f8ceb2ca67f77f15e4e456a21b7dbdbf09a660
+Section: Tweaks
+Description: 去除广告，去除消息红点提示，去除个人页面底部淘友圈，精简搜索栏，小视频自动播放
+Author: iOSign
+Name: 淘宝(Rootless)
+
+Package: netskao.alipayhooks-rootless
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/支付宝Hooks-Rootless.1.1-3.deb
+Size: 72552
+MD5sum: 4e979b12c287f7e3f0849112b61580df
+SHA1: cb4b335d161840ad2e69bdbea554d886715285c9
+SHA256: 1abd32dabcb577956b8aa68e2456386ba1b20085975b24502f6a9b702a6652d8
+Section: Netskao-Tweaks
+Description: 支付宝去除底部理财选项(理财是不可能理财的, 只有收收钱勉强维持生活), 固定每天10w步
+Author: Netskao
+Name: 支付宝 Hooks-Rootless
+
+Package: netskao.bdtbnoads
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 256
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/百度贴吧Noad_1.2-8_iphoneos-arm64.deb
+Size: 89254
+MD5sum: ee687a0f929804b60c201c4b6f2222a4
+SHA1: 06861cd94fecea8e396425a316cc658cd7dc27e4
+SHA256: 32686310b0be7c7bed3add2c5501e46fb0df89091509c165bd02c7e624606c2f
+Section: Netskao-NoAds
+Description: 百度贴吧去除启动广告，去除贴中广告，去除吧内信息流中直播，去除吧内相关推荐，去除进入某些吧随机弹出的广告窗口，去除右下角随机出现的悬浮窗，去除吧内签到后弹出的推荐窗口，去除首页信息流中视频(不影响视频版块视频)，去除首页顶部的直播选项和高考选项，去除图片翻页到末尾时弹出广告，增加贴内详情视频长按保存到相册，增加底部视频板块双击保存到相册
+Author: Netskao
+Name: 百度贴吧 NoAds
 
