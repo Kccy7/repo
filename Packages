@@ -116,6 +116,22 @@ Author: cike
 Name: 拼多多NoAds-Rootless
 Sponsor: cike
 
+Package: com.huayuarc.qqmusicnoads.rootless
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Huayuarc
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/QQ Music Noads-Rootless_0.0.2_iphoneos-arm64.deb
+Size: 8000
+MD5sum: 4ec960a9c43e3e425c79620268c9c1bc
+SHA1: 5cd2e1ca34c49149824706e4c40d179e1f3f93d9
+SHA256: fbf1f0eeb8cddbd9d7dba73868bd181df1b6dfe010db06be807a9cad493293a0
+Section: 插件
+Description: 免会员开启臻品全景声，首页模块精简，屏蔽播页直播/视频，去除我的页面下拉进入我的唱片架，去除取消歌曲收藏提示窗口。
+Author: Huayuarc
+Name: QQ Music Noads-Rootless
+
 Package: com.huayuarc.tbnoads.rootless
 Version: 1.2-1
 Architecture: iphoneos-arm64
