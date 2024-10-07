@@ -183,6 +183,22 @@ Author: level3tjg
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.sposifyfix
 Name: Sposify Fix
 
+Package: com.snail.always120.rootless
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 760
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: ./debs/com.snail.always120.rootless_1.1.7_iphoneos-arm64.deb
+Size: 195298
+MD5sum: 7de17ab89b27e7428af918dede80278d
+SHA1: 06cd780269a447c7797bef7b371bfae6f369b4dc
+SHA256: c22276ccb1c293b355b5fcc86ad4d4fd207a58b6688ef49b95e5ebfbd5a57c7a
+Section: Tweaks
+Description: 使iOS 15/16越狱高刷机型自适应/锁定120HZ。 Make iOS 15/16 ProMotion Devices auto-adpat/reach to 120Hz.
+Author: Snail <mu514983786@gmail.com>
+Name: 蜗牛自适应+锁定120 Always120
+
 Package: com.spos
 Version: 8.5.52
 Architecture: iphoneos-arm64
@@ -214,6 +230,37 @@ Section: Tweaks
 Description: 隐藏通知图标中右下角标
 Author: SquidForce
 Name: HideNotificationBadge - 隐藏通知图标中右下角标
+
+Package: com.sunshinesong.recorder-bubble
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.sunshinesong.recorder-bubble_0.0.1_iphoneos-arm64.deb
+Size: 41796
+MD5sum: f1ea84c4ed9afc9f9c426f4eadf18642
+SHA1: 0562a9c1147682d7410e2ceb2950dd007e7993f3
+SHA256: fb06c61fc47b159ddd6c0b508d4a4f577c8ef4e4ea864ec1dae2bbf3fb9c6c26
+Section: Tweaks
+Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。代码已开源，需要拓展功能自行去拿。
+Author: sunshinesong
+Name: recorder-bubble
+
+Package: com.sunshinesong.volume-manager
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 1104
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.sunshinesong.volume-manager_v1.0.3_iphoneos-arm64.deb
+Size: 253032
+MD5sum: 9f4aa9a3e8eb0abe5b8d26fa299bdddc
+SHA1: a8111d4d100d2a3d0c4db41ec1da21d8a1ffaa3f
+SHA256: 465ba2834352fa532e48cd67ffd715cdd7619f2af03a626fe7a1ca977d5ef89b
+Section: Tweaks
+Description: 音量管理，就是这么简单。包含功能：混响、多元化音量。
+Author: sunshinesong
+Name: VolumeManager
 
 Package: com.swing.eleme
 Version: 1.0.4
