@@ -234,21 +234,6 @@ Icon: https://repo.abox.plus/api/packageinfo/com.swing.eleme/icon.png
 Name: 饿了么去广告
 Sileodepiction: https://repo.abox.plus/depictions/native/com.swing.eleme.json
 
-Package: com.yourepo.0xash.patch
-Version: 4.2.0
-Architecture: iphoneos-arm64
-Maintainer: Ash <krylov0@outlook.com>
-Depends: mobilesubstrate
-Filename: ./debs/酷安NoAds.4.2.0.deb
-Size: 2948
-MD5sum: 6d81a41a8fa0cbc771ec1e7cf9671a7d
-SHA1: 62f7bc5bee681fd812ab7f2a1611ba21a453f46f
-SHA256: e2b544f57408a18fdafa2454b4418a78e06d0ed6a08798d67c276a349f434014
-Section: Tweaks
-Description: 去除广告 加速开屏时间
-Author: ddd996 <krylov0@outlook.com>
-Name: 酷安 NoAds
-
 Package: iosign.10000.rootless
 Version: 0.1-1
 Architecture: iphoneos-arm64
