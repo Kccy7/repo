@@ -246,6 +246,23 @@ Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指�
 Author: sunshinesong
 Name: recorder-bubble
 
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13648
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64.deb
+Size: 5177798
+MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
+SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
+SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
 Package: com.sunshinesong.volume-manager
 Version: 1.0.3
 Architecture: iphoneos-arm64
