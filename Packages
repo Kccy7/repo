@@ -327,6 +327,23 @@ Author: sunshinesong
 Name: recorder-bubble
 
 Package: com.sunshinesong.split-view-pro
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 12580
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.1_iphoneos-arm64-1.deb
+Size: 4771968
+MD5sum: 0f4462e01bd1adcaadea5538621afece
+SHA1: 431dce16ec01d9059d2ee9c9e6317865e4237558
+SHA256: 8b63bd059e7f9bfc7e037479e8a9e82b9ede56136286247ee43cc4bbf88d695d
+Section: Tweaks
+Description: 别问，问就是分屏插件！该插件不收费，功能会慢慢整合。同时这个插件刚问道不久，自然也有很多不足，我会慢慢完善。最重要的一点：它不会窃取你任何隐私，不存在任何后门！其次：它尽量把操作复杂度降到最低。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
 Version: 1.1.3
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
@@ -354,6 +371,23 @@ Size: 5235286
 MD5sum: 33f77310f5bdd834c42317f85c4090fa
 SHA1: 7b1196127b2e7e3a70e10b5355f44930ef7e0a49
 SHA256: 459050045ebc1120ac4d642e57410840110c1c5263e2473460a89cf095b8f821
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.sunshinesong.split-view-pro_1.1.5_iphoneos-arm64.deb
+Size: 5229304
+MD5sum: 5c50c0cc150b92841fc7cf6d4ff180c6
+SHA1: f0fb3cb5b0b25322706939a4aecc61a9b3d40794
+SHA256: 3abc622278afdc5f067aa366ef1eabd64218c0220706409e74e4ca48f1a78ad8
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
