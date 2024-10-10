@@ -231,6 +231,86 @@ Description: 隐藏通知图标中右下角标
 Author: SquidForce
 Name: HideNotificationBadge - 隐藏通知图标中右下角标
 
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 580
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/通知上岛_1.0.0_iphoneos-arm64.deb
+Size: 129802
+MD5sum: d93a6bfad4d4cdcf85f156e8d6ceef86
+SHA1: 2fb7bfaf31a13d0aa9a6af48a61236f975e71eb9
+SHA256: 878ae48c04106c3d4d5625e88b55bc81a8de928453b654204e5a1d92b97bc5ef
+Section: Tweaks
+Description: 上岛，不必太复杂。仅仅支持iOS16+。
+Author: sunshinesong
+Name: dynamic-notifier
+
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 732
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/通知上岛_1.0.1_iphoneos-arm64.deb
+Size: 184704
+MD5sum: 64ebd8a69294c4884539006565488a1e
+SHA1: 2b1d6b38f6cf8470f3b404ce488e770a35bc3c25
+SHA256: 06b690d4f5eda786896b68ecadc9d8fd0cfeb245c2918a9083d3f8c09b7024c8
+Section: Tweaks
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+。only support above ios16.0
+Author: sunshinesong
+Name: dynamic-notifier
+
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 812
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.sunshinesong.dynamic-notifier_1.0.2_iphoneos-arm64.deb
+Size: 208982
+MD5sum: 06f406c07ee275b88a4433f5d39724ec
+SHA1: f95f5560b441ebd2440fa7743c1378100ea25af2
+SHA256: f7e64fd9e50308b39b582bedf5bacfce208c2afc344a263e4ad0d1fcd2067b34
+Section: Tweaks
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+。only support above ios16.0
+Author: sunshinesong
+Name: dynamic-notifier
+
+Package: com.sunshinesong.dynamic-notifier
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 812
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/1.0.4.deb
+Size: 212754
+MD5sum: 45db94dc837cb87dda7f44dc0d87d833
+SHA1: c71a725e4ae55619af446c9e5959ea701f05ac8e
+SHA256: f7fd9a836eb9fd4f60278b8e6ef27312c0db17e0163ebec6c607c7f4e4380b1a
+Section: Tweaks
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+ (14pro,14pro max)。only support above ios16.0(14pro and 14pro max)
+Author: sunshinesong
+Name: dynamic-notifier
+
+Package: com.sunshinesong.native-island
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 908
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), org.thebigboss.libcolorpicker
+Filename: ./debs/native-island-notifier_1.0.3_iphoneos-arm64.deb
+Size: 151828
+MD5sum: 9ce3985aa947d1a6d609006b1eb6e295
+SHA1: d7b1b22dd38e44a795825bc21b749e4fee2f3991
+SHA256: c92bd15a8be3539ab31a4a36954ceea9d3247c234d23837841c09810bef3323b
+Section: Tweaks
+Description: 原生岛通知，从简即可。仅仅支持iOS16.0+
+Author: sunshinesong
+Name: native-island-notifier
+
 Package: com.sunshinesong.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -245,6 +325,40 @@ Section: Tweaks
 Description: 无设置项，当录制屏幕时，显示一个花瓣悬浮球指示器。代码已开源，需要拓展功能自行去拿。
 Author: sunshinesong
 Name: recorder-bubble
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13760
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/1.1.3_iphoneos-arm64.deb
+Size: 3503108
+MD5sum: 8781cc06da12986b3fc8f66ccbdebc59
+SHA1: 44e8b47604ae440685fe14bed703619327104b4e
+SHA256: 3fd7aac806d95a64eb4b7f845b0d3efc292961a702aae5f0d114f633047da0ca
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/1.1.4_iphoneos-arm64.deb
+Size: 5235286
+MD5sum: 33f77310f5bdd834c42317f85c4090fa
+SHA1: 7b1196127b2e7e3a70e10b5355f44930ef7e0a49
+SHA256: 459050045ebc1120ac4d642e57410840110c1c5263e2473460a89cf095b8f821
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.1.6
