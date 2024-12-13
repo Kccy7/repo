@@ -1,3 +1,20 @@
+Package: cn.Bswbw.fixset
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.bswbw.fixset.deb
+Size: 50594
+MD5sum: 8ab4359da295ccf5b7f0769a36064660
+SHA1: a824ae98ddf9373fb32cc055dc08001bf11cd570
+SHA256: b8331be065178735c0a66d4c1f8c320ceece2b8dac9c714102f593d7995d7e93
+Description: 修复部分插件转roothide配置不保存问题
+Author: @bswbw
+Depiction: https://repo.lenglengyu.top/packageInfo/fixset.html
+Name: FixSet
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/fixsetsileo
+
 Package: com.0xkuj.ccadsbegone.rootless
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -215,6 +232,27 @@ Section: Tweaks
 Description: 使iOS 15/16越狱高刷机型自适应/锁定120HZ。 Make iOS 15/16 ProMotion Devices auto-adpat/reach to 120Hz.
 Author: Snail <mu514983786@gmail.com>
 Name: 蜗牛自适应+锁定120 Always120
+
+Package: com.sop.settingsrevamp
+Version: 2.1.1
+Architecture: iphoneos-arm64e
+Maintainer: SOPPPra
+Installed-Size: 540
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, firmware (>= 14)
+Conflicts: com.creaturecoding.shuffle, com.trappledestek.ikset, pro.ikghd.iksettings, xyz.cypwn.settingswidgets, org.mr.settingswidgets, com.trappledestek.settingswidgets, com.shepgoba.settingswidgets, zb.preferenceloader
+Filename: ./debs/com.sop.settingsrevamp_2.1.1_iphoneos-arm64e.deb
+Size: 119288
+MD5sum: 59a056f4b911a0e1d5f79e22d7d9abae
+SHA1: 1d675a7f5b31b130e813411ca77a2a796dbdb32a
+SHA256: be06689559ffa311a9f0bb2d54869aeb12d219d4de8266c4bd325d40c36fdfcc
+Section: Tweaks
+Description: Customize the ios settings page
+Author: SOPPPra
+Depiction: https://sopppra.mooo.com/depictions/web/com.sop.settingsrevamp.html
+Icon: https://i.postimg.cc/ry1s499R/icon-3x.png
+Name: SettingsRevamp
+Sileodepiction: https://sopppra.mooo.com/depictions/com.sop.settingsrevamp.json
 
 Package: com.spos
 Version: 8.5.52
