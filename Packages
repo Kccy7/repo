@@ -166,6 +166,23 @@ Author: julioverne
 Depiction: https://julio.hackyouriphone.org/description.html?id=com.julioverne.spotilife
 Name: Spotilife
 
+Package: com.lclrc.hammerit
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: lclrc(SquidForce)
+Installed-Size: 3808
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.ccsupport, com.opa334.libsandy, firmware (>= 14.0)
+Filename: ./debs/com.lclrc.hammerit_1.7.1_iphoneos-arm64.deb
+Size: 977970
+MD5sum: d70699b93e4c1d86aa21a963427ca3cd
+SHA1: 575137e624ea6d038c4ab4dcc7da9a01ee417fc6
+SHA256: 541973ff6c9099deae095555627ee2d6c04d405e39ffff5e75a9751d22636cc2
+Section: Tweaks
+Description: Control your text or translate as you wish.
+Author: lclrc(SquidForce)
+Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
+Name: Hammer It
+
 Package: com.level3tjg.sposifyfix
 Version: 0.0.6
 Architecture: iphoneos-arm64
@@ -405,6 +422,40 @@ Size: 5177798
 MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
 SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
 SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.3.7
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.sunshinesong.split-view-pro_1.3.7_iphoneos-arm64.deb
+Size: 2317246
+MD5sum: 85cf69532d77f4237694c00875448090
+SHA1: e5a4270fbb51375db56fba1c5cb4b0ebf28699a2
+SHA256: b51c94e2c855a1879442a039aeea50ff4f19077b121d835744680107c0a7fab9
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro
+Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro
+Version: 1.4.0
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 5468
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/split-view-pro.1.4.0.deb
+Size: 1575400
+MD5sum: 27cf070d2c5e3fa1fed7c4a87a8d96d5
+SHA1: 98f476b3df3bb1598bbb2a0c6e73900d781e22cf
+SHA256: e12e61594bf5de43aa7c7efe315720c491816b3eaf3d79d4347efc1149f4897b
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
