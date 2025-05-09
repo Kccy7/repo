@@ -64,38 +64,6 @@ Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 
-Package: com.be-huge.floating-view
-Version: 1.4.6
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2544
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.6_iphoneos-arm64.deb
-Size: 794920
-MD5sum: 72ebaf77cd83716285e829c9f9bfc968
-SHA1: 5a9a6776ae805d599ea15896e023557b6c243e32
-SHA256: 3500fa5141eb448c141db0d4f22a72f61ae01084b68b1f77454eec86b44a9fe1
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
-Version: 1.4.6-2
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2540
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.6-2_iphoneos-arm64.deb
-Size: 788760
-MD5sum: ecb8b395f53a843dc173b6fc79753ead
-SHA1: 0aadb5edd926370b22c95ab56e8250d8bd3b4afb
-SHA256: 049aaef2ccff3a33d4762198ea0805c341209ca9faee31c713c54a568b876f80
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
 Package: com.ddd996.kuanpatch
 Version: 4.2.0
 Architecture: iphoneos-arm64
