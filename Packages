@@ -65,38 +65,6 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 
 Package: com.be-huge.floating-view
-Version: 1.4.4
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2336
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.4_iphoneos-arm64.deb
-Size: 757108
-MD5sum: 9564563c06c9abb05490ccaf717d8ffc
-SHA1: 3a01e0f158c5e1e33bbe2c73edf46082703fd8ec
-SHA256: c87292ee95a3e639096aeaec9a82bb9ab6e358ec2e5ea66ff1859cf52e7199ad
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
-Version: 1.4.5
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2524
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.5_iphoneos-arm64.deb
-Size: 783276
-MD5sum: 44f8c6b79374a6be44f2a2a46d7d8e2e
-SHA1: 292e15de9ff70b9e81255907dab83b42dd198021
-SHA256: ee1cf7f59416eafb2c69f5e7f6b6ebf012932dbfe38afdb07781fb91f710ce3b
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
 Version: 1.4.6
 Architecture: iphoneos-arm64
 Maintainer: be-huge
@@ -107,22 +75,6 @@ Size: 794920
 MD5sum: 72ebaf77cd83716285e829c9f9bfc968
 SHA1: 5a9a6776ae805d599ea15896e023557b6c243e32
 SHA256: 3500fa5141eb448c141db0d4f22a72f61ae01084b68b1f77454eec86b44a9fe1
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
-Version: 1.4.6-1
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2524
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.6-1_iphoneos-arm64.deb
-Size: 785994
-MD5sum: ad601beb0489312453889dafe161557f
-SHA1: 9d75d168d4470844408fea9cad956dccb53fee5c
-SHA256: 6f647ff9dacf15e2c07c4ef83125b9905feea2326a1046865b527b65d69cb0c0
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
