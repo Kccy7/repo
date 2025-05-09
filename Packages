@@ -65,54 +65,6 @@ Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 
 Package: com.be-huge.floating-view
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2284
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.1_iphoneos-arm64.deb
-Size: 745530
-MD5sum: c02cf7ca3f16bd4184d9cc0c8d17c770
-SHA1: 9ccf812d692af95ee6875a47dedd6009fcf8bb81
-SHA256: 11232e17b45ac2ce89b80c58606ce0cc932f8a9d9a54c4a0841a3070e37cae23
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
-Version: 1.4.2
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2268
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.2_iphoneos-arm64.deb
-Size: 745684
-MD5sum: 67cc4ec0d8523fd1f70427d729ef9a06
-SHA1: df7cd316f5e4f77cc9bc398546edd7f16164b415
-SHA256: ce428847c95e53bd9197976b87303fcdc3e6247448bf30168a7a5dcba8156627
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
-Version: 1.4.3
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2336
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.3_iphoneos-arm64.deb
-Size: 755948
-MD5sum: 2d4a90d8cdf11b6ee499b0ec1512d527
-SHA1: fd9b1bf7c186237dc1462272fad8942b5b052d75
-SHA256: 301e39169ec352a28b4bb7507bac87a52d9fbb662c2f8264ba10239d8b68a458
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
 Version: 1.4.4
 Architecture: iphoneos-arm64
 Maintainer: be-huge
@@ -123,38 +75,6 @@ Size: 757108
 MD5sum: 9564563c06c9abb05490ccaf717d8ffc
 SHA1: 3a01e0f158c5e1e33bbe2c73edf46082703fd8ec
 SHA256: c87292ee95a3e639096aeaec9a82bb9ab6e358ec2e5ea66ff1859cf52e7199ad
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
-Version: 1.4.4-1
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2504
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.4-1_iphoneos-arm64.deb
-Size: 767626
-MD5sum: 5648ef4fe39ecfaf362d9acb7f8dcdb2
-SHA1: 9a7405ff8e7661c911fff2778f48bfc057112cb7
-SHA256: 7b3f56251ea71d387373e5675f9d021f1d322d2cf1cb8be111fddd95324c0297
-Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
-Author: be-huge
-Name: floatingView
-
-Package: com.be-huge.floating-view
-Version: 1.4.4-2
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 2504
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.be-huge.floating-view_1.4.4-2_iphoneos-arm64.deb
-Size: 769558
-MD5sum: 720b3f0b6b6f93292ddf26a1e24aead3
-SHA1: e9066de49b566262c3108584a1e1c47923d13366
-SHA256: f8841913b452da3c210b0ac5c1dc6cdf41c7d1e4f27d2e53cabd616a77acc273
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: be-huge
@@ -359,6 +279,22 @@ Description: Control your text or translate as you wish.
 Author: lclrc(SquidForce)
 Icon: file:///var/jb/Library/PreferenceBundles/HammerItPrefs.bundle/HammerIt@3x.png
 Name: Hammer It
+
+Package: com.lecard.wuyu
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1948
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
+Filename: ./debs/com.lecard.wuyu_0.1_iphoneos-arm64.deb
+Size: 408846
+MD5sum: 94c33650a1299131ff88eb0beaf21517
+SHA1: 2feec0eb838d180d5565520ca69cc0feb301a873
+SHA256: 6637dfd3b9c5aca70e748399b89a5c27c3f5fdbc3b9ba7de78448c7dc9163b26
+Section: Tweaks
+Description: Jailbrea!
+Author: Crassna
+Name: aiBreak
 
 Package: com.level3tjg.sposifyfix
 Version: 0.0.6
